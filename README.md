@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # proyecto1erdepartamentalflutter
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Proyecto-1er-Departamento
+Aplicacion de Galeria desarrollado en Kotlin y Flutter
+>>>>>>> d6738a1e6897a98d0b61b8b7dff0ed003e33d7c1
